@@ -1,4 +1,6 @@
 # Redis CPP CLI Practice application
+<<<<<<< HEAD
+=======
 
 ## Commands to run:
 
@@ -31,3 +33,4 @@ Client Data: Hello
 ```
 
 
+>>>>>>> 1e4c565ebf5452783c75a97afae714c2af87e962
